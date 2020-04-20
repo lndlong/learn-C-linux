@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "commentTranslate.targetLanguage": "zh-CN",
+    "files.associations": {
+        "math.h": "c",
+        "cstdio": "c"
+    }
+}
